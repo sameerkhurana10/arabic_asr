@@ -1,3 +1,7 @@
+**Issue Tracking**
+
+Please raise any issues that you might have running the below scripts by opening an issue here. I will track this repo and reply to any open issues
+
 **Install kaldi**
 
 https://github.com/kaldi-asr/kaldi
