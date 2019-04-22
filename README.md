@@ -36,6 +36,12 @@ inside this repo, run `tar -xzvf exp.tar.gz`, this will create a folder `exp`.
 
 The `exp` folder contains all the necessary items used to run decoding and transcribe speech. Also, it contains the pre-trained Arabic ASR model
 
+**Before running the scripts below**
+
+Change the `path.sh` according to your local kaldi directory location
+
+run `source ./path.sh`
+
 **Extract features**:
 
 1. MFCC
