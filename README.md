@@ -100,8 +100,6 @@ steps/online/nnet2/extract_ivectors_online.sh: done extracting (online) iVectors
 
 Decode:
 
-See the command line options:
-
 Now, we run decoding:
 
 ```
