@@ -1,5 +1,7 @@
 **Install kaldi**
 
+https://github.com/kaldi-asr/kaldi
+
 **Setup**:
 
 After installing kaldi, change the `KALDI_ROOT` in the `path.sh` to point to your local kaldi
